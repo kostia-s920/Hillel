@@ -26,6 +26,8 @@
 # result = first_numer + second_number
 # print(result)
 
+print("перевірка на конфлік")
+print("перевірка на конфлік другий")
 
 print("Привіт з Першої таски")
 print("А це вже для конфлікту")
